@@ -29,8 +29,8 @@
     </tr>
     <tr>
         <th>ResNeXt101-FPN</th>
-        <th>&radic</th>
-        <th>&radic</th>
+        <th>&#10003;</th>
+        <th>&#10003;</th>
         <th></th>
         <th></th>
         <th></th>
@@ -38,42 +38,40 @@
     </tr>
     <tr>
         <th>ResNeXt101-FPN</th>
-        <th>&radic</th>
-        <th>&radic</th>
-        <th>&radic</th>
+        <th>&#10003;</th>
+        <th>&#10003;</th>
+        <th>&#10003;</th>
         <th></th>
         <th></th>
         <th>baseline+4.25%</th>
     </tr>  
     <tr>
         <th>ResNeXt101-FPN</th>
-        <th>&radic</th>
-        <th>&radic</th>
+        <th>&#10003;</th>
+        <th>&#10003;</th>
         <th></th>
         <th></th>
-        <th>&radic</th>
+        <th>&#10003;</th>
         <th>baseline+4.36%</th>
     </tr>
     <tr>
         <th>ResNeXt101-FPN</th>
-        <th>&radic</th>
-        <th>&radic</th>
+        <th>&#10003;</th>
+        <th>&#10003;</th>
         <th></th>
-        <th>&radic</th>
-        <th>&radic</th>
+        <th>&#10003;</th>
+        <th>&#10003;</th>
         <th>baseline+4.54%</th>
     </tr>
      <tr>
         <th>ResNeXt101-FPN</th>
-        <th>&radic</th>
-        <th>&radic</th>
+        <th>&#10003;</th>
+        <th>&#10003;</th>
         <th></th>
-        <th>&radic</th>
-        <th>&radic</th>
+        <th>&#10003;</th>
+        <th>&#10003;</th>
         <th>baseline+4.69%</th>
     </tr>   
- 
-    
 </table>
 
 - **预训练模型下载**
