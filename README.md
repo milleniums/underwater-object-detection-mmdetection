@@ -61,15 +61,6 @@
         <th></th>
         <th>&#10003;</th>
         <th>&#10003;</th>
-        <th>baseline+4.54%</th>
-    </tr>
-     <tr>
-        <th>ResNeXt101-FPN</th>
-        <th>&#10003;</th>
-        <th>&#10003;</th>
-        <th></th>
-        <th>&#10003;</th>
-        <th>&#10003;</th>
         <th>baseline+4.69%</th>
     </tr>   
 </table>
