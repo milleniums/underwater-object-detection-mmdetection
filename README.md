@@ -5,6 +5,76 @@
 
 ## 答辩PPT
     coming soon!
+    
+## 消融实验
+
+<table>
+    <tr>
+        <th>Backbone</th>
+        <th>DCN</th>
+        <th>MS</th>
+        <th>Mixup</th>
+        <th>RandomRotate90</th>
+        <th>GC</th>
+        <th>mAP</th>
+    </tr>
+    <tr>
+        <th>ResNeXt101-FPN</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th>baseline</th>
+    </tr>
+    <tr>
+        <th>ResNeXt101-FPN</th>
+        <th>&radic</th>
+        <th>&radic</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th>baseline+3.35%</th>
+    </tr>
+    <tr>
+        <th>ResNeXt101-FPN</th>
+        <th>&radic</th>
+        <th>&radic</th>
+        <th>&radic</th>
+        <th></th>
+        <th></th>
+        <th>baseline+4.25%</th>
+    </tr>  
+    <tr>
+        <th>ResNeXt101-FPN</th>
+        <th>&radic</th>
+        <th>&radic</th>
+        <th></th>
+        <th></th>
+        <th>&radic</th>
+        <th>baseline+4.36%</th>
+    </tr>
+    <tr>
+        <th>ResNeXt101-FPN</th>
+        <th>&radic</th>
+        <th>&radic</th>
+        <th></th>
+        <th>&radic</th>
+        <th>&radic</th>
+        <th>baseline+4.54%</th>
+    </tr>
+     <tr>
+        <th>ResNeXt101-FPN</th>
+        <th>&radic</th>
+        <th>&radic</th>
+        <th></th>
+        <th>&radic</th>
+        <th>&radic</th>
+        <th>baseline+4.69%</th>
+    </tr>   
+ 
+    
+</table>
 
 - **预训练模型下载**
  - 下载mmdetection官方开源的htc的[resnext 64×4d 预训练模型](https://s3.ap-northeast-2.amazonaws.com/open-mmlab/mmdetection/models/htc/htc_dconv_c3-c5_mstrain_400_1400_x101_64x4d_fpn_20e_20190408-0e50669c.pth)
