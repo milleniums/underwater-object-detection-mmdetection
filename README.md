@@ -118,3 +118,10 @@
 ## Reference
    - [BaselineBy郑烨](https://github.com/zhengye1995/underwater-object-detection)
    - [2019广东工业智造创新大赛【赛场一】布匹疵点智能识别rank2解决方案](https://github.com/cizhenshi/TianchiGuangdong2019_2th)
+   
+   
+## Contact
+    
+    author: hk
+    qq：3025531252
+    email: 3025531252@qq.com
