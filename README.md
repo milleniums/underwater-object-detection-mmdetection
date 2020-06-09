@@ -19,7 +19,7 @@
         <th>mAP</th>
     </tr>
     <tr>
-        <th>ResNet50-FPN</th>
+        <th>ResNeXt101-FPN</th>
         <th></th>
         <th></th>
         <th></th>
