@@ -4,7 +4,7 @@
 ## [和鲸社区Kesci 水下目标检测算法赛（光学图像赛项）](https://www.kesci.com/home/competition/5e535a612537a0002ca864ac)
 
 ## 答辩PPT
-    coming soon!
+    coming soon or by contacting with me
     
 ## 消融实验
 
@@ -65,7 +65,7 @@
     </tr>   
 </table>
 
-- **预训练模型下载**
+## 预训练模型下载
  - 下载mmdetection官方开源的htc的[resnext 64×4d 预训练模型](https://s3.ap-northeast-2.amazonaws.com/open-mmlab/mmdetection/models/htc/htc_dconv_c3-c5_mstrain_400_1400_x101_64x4d_fpn_20e_20190408-0e50669c.pth)
  - 百度网盘下载地址：链接:https://pan.baidu.com/s/1r3uQVpOLKfjF8vfLEYPMgg  密码:811m
 
