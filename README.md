@@ -15,7 +15,7 @@
         <th>MS</th>
         <th>Mixup</th>
         <th>RandomRotate90</th>
-        <th>GC</th>
+        <th><a href="https://github.com/cizhenshi/TianchiGuangdong2019_2th/tree/master/src/mmdet/models/roi_extractors">GC</a></th>
         <th>mAP</th>
     </tr>
     <tr>
