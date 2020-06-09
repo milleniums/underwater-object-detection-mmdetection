@@ -15,7 +15,7 @@
         <th>MS</th>
         <th><a href="https://github.com/sankin97/Underwater_detection/blob/master/mmdet/datasets/pipelines/transforms.py">Mixup</a></th>
         <th>RandomRotate90°</th>
-        <th><a href="https://github.com/cizhenshi/TianchiGuangdong2019_2th/tree/master/src/mmdet/models/roi_extractors">GC</a></th>
+        <th><a href="https://github.com/cizhenshi/TianchiGuangdong2019_2th/blob/master/src/mmdet/models/roi_extractors/single_level.py">GC</a></th>
         <th>mAP</th>
     </tr>
     <tr>
