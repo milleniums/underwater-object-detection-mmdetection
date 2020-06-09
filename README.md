@@ -21,7 +21,7 @@
     <tr>
         <th>ResNeXt101-FPN</th>
         <th></th>
-        <th></th>
+        <th>&#10003;</th>
         <th></th>
         <th></th>
         <th></th>
