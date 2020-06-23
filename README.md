@@ -14,7 +14,7 @@
     ![avatar](pic/mixup.PNG)
     
 4. 使用多尺度训练与预测，适应图片分辨率差异，可以让参与训练的目标大小分布更加均衡，使模型对目标大小具有一定的鲁棒性；
-5. 参考[ResNet]((https://arxiv.org/abs/1512.03385))论文，使用Global Context ROI为每个候选框添加上下文信息，充分利用数据分布特点，提升了检测精度。
+5. 参考[ResNet](https://arxiv.org/abs/1512.03385)论文，使用Global Context ROI为每个候选框添加上下文信息，充分利用数据分布特点，提升了检测精度。
 
 
 ## 消融实验
