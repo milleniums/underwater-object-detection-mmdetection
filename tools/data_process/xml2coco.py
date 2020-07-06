@@ -32,6 +32,8 @@ def parse_xml(xml_path, img_id, anno_id):
         ymin = int(bnd_box.find('ymin').text)
         xmax = int(bnd_box.find('xmax').text)
         ymax = int(bnd_box.find('ymax').text)
+        if xmin>=xmax or ymin>=ymax:
+            continue
         w = xmax - xmin + 1
         h = ymax - ymin + 1
         area = w*h
